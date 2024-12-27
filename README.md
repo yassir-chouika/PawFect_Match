@@ -1,7 +1,6 @@
-# TinDog Project
+# PawFect Project
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+Landing page for a dog dating platform, helping dogs meet new friends nearby with ease and exclusivity.
 
 ## SVGs:
 
